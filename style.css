@@ -1,0 +1,28 @@
+*
+{
+    /* background-color: brown; */
+
+}
+.form input 
+{
+    width: 90%;
+    height: 30px;
+    border: 1px solid red;
+    margin: 8px;
+    
+}
+.form
+{
+    border: 1px solid red;
+    width: 40%;
+    margin-top: 80px;
+    height: 550px;
+}
+#button
+{
+    width: 95%;
+    height: 30px;
+    border: 1px solid red;
+    margin: 20px 0px;
+}
+
